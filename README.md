@@ -1,5 +1,3 @@
 
 # BigDataCampusContest
-2020 서울시 빅데이터 캠퍼스 공모전 우수상 : 우리동네키움센터 최적입지 선정 모델
-
-
+2020 Seoul Big Data Campus Contest Excellence Award: Optimal Location Selection Model for Public Child Center
